@@ -1,2 +1,3 @@
-# free-pdf-icons-vectors
-Free PDF icon vectors for web and UI design. Attribution required- link back to https://boostpdf.com
+## License
+Licensed under CC BY 4.0. Free to use with attribution.
+You must credit BoostPDF and link back to https://boostpdf.com
